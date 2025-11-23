@@ -1,7 +1,7 @@
 # Smart Task Management System
 A full-stack **Java Spring Boot + MySQL** application with **JWT Authentication, Role-Based Access, CRUD, Logging, Global Exception Handling, and Pagination/Sorting**.
 
-This project is designed to impress interviewers and showcase real-world backend development skills.
+This project is designed to backend development.
 
 ---
 
@@ -174,13 +174,4 @@ This project is designed exactly like real-world enterprise systems and is perfe
 - Interviews
 - Resume / GitHub Portfolio
 - Learning Spring Boot end-to-end
-
-If you want, I can generate:
-✔ Postman Collection
-✔ Database ER Diagram
-✔ UML Diagrams
-✔ Project Screenshots
-✔ Deployment Guide (AWS / Render)
-
-Just tell me! 🚀
 
